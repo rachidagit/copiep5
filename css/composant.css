@@ -1,0 +1,22 @@
+.btnCustom {
+    padding: 10px;
+    border: none;
+    background-color:rgb(223, 219, 219);
+    color: #d6b267;
+    cursor: pointer;
+    transition: transform 220ms ease-in-out;
+}
+
+.btnCustom:hover {
+    background-color:grey;
+    color:white;
+    border: 1px solid black;
+}
+
+.selectCustom {
+    background-color: #d6b267;
+    color:white;
+    padding: 10px;
+    border: none;
+   
+}
